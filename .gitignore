@@ -1,0 +1,8 @@
+# Nuestros archivos a ignorar
+*.log
+*.[abc]
+*.[0-9]
+log/*.log
+*~
+?.[a-z]
+
